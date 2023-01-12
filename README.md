@@ -1,7 +1,9 @@
 # Optical-ray-tracer
 
 Date: 27/11/2022
+
 By: William Nguyen
+
 Written and tested in Python 3.7
 
 ----- GETTING STARTED -----
