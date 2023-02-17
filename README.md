@@ -1,4 +1,4 @@
-# Optical-ray-tracer
+# Optical-Ray-Tracer
 
 Date: 27/11/2022
 
@@ -26,7 +26,7 @@ Written and tested in Python 3.7
 - optimisation.py contains the methods to calculate RMS of different optical systems  
 
 
------ SCRIPTS -----
+----- SCRIPTS ------
 
 - example.py contains the example script on how to get started with the optical ray tracer
 
@@ -40,3 +40,8 @@ Written and tested in Python 3.7
 
 - aspheric_surface_optimisation contains the script to optimise plano-convex and bi-convex lens with adaptive optics. 
 
+----- Sample outputs ------
+
+![image](https://user-images.githubusercontent.com/108578700/219814286-fde14aa4-b052-422d-815a-0b13db0174c9.png)
+![image](https://user-images.githubusercontent.com/108578700/219814376-fd9c6e48-d803-4039-8b86-1ca779cd57b5.png)
+![image](https://user-images.githubusercontent.com/108578700/219814409-d29f64f4-7025-4257-bdd6-0b04eeb177af.png)
